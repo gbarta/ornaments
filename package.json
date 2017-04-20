@@ -1,0 +1,25 @@
+{
+  "name": "ornaments",
+  "version": "0.1.0",
+  "description": "page ornaments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbarta/ornaments.git"
+  },
+  "author": "gbarta@gabrielbarta.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gbarta/ornaments/issues"
+  },
+  "homepage": "https://github.com/gbarta/ornaments#readme",
+  "dependencies": {
+    "vue": "^2.2.6"
+  },
+  "devDependencies": {
+    "bs-platform": "^1.7.1"
+  }
+}
